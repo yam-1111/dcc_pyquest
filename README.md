@@ -1,7 +1,7 @@
 
 <h1 align="center" style="color:#A020F0;">15 Days of Python Mastery for AWS Cloud Computing</h1>
 
-<p align="center">Welcome to the comprehensive repository tailored for the Department of Cloud Computing at AWSCC - PUP Manila. This resource is meticulously crafted to equip members with essential skills for constructing serverless applications utilizing AWS Lambda.</p>
+<p align="justify">Welcome to the comprehensive repository tailored for the Department of Cloud Computing at AWSCC - PUP Manila. This resource is meticulously crafted to equip members with essential skills for constructing serverless applications utilizing AWS Lambda.</p>
 
 ## Directories
 
