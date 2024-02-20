@@ -1,0 +1,1 @@
+print(open('/home/vee/Personal/15-Days-of-Python/day-06/Submission/example.txt', 'r').read())
