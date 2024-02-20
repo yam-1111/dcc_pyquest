@@ -5,7 +5,7 @@
 
 ## Directories
 
-| Python Fundamentals - Days 1-5                | Link                                           |
+| [Python Fundamentals - Days 1-5](https://github.com/yam-1111/dcc_pyquest/tree/day1-5)                | Link                                           |
 | -------------------------------------------- | ---------------------------------------------- |
 | Day 1                                        | [Link](https://github.com/yam-1111/dcc_pyquest/tree/day1-5/day-01) |
 | Day 2                                        | [Link](https://github.com/yam-1111/dcc_pyquest/tree/day1-5/day-02) |
@@ -13,7 +13,7 @@
 | Day 4                                        | [Link](https://github.com/yam-1111/dcc_pyquest/tree/day1-5/day-04) |
 | Day 5                                        | [Link](https://github.com/yam-1111/dcc_pyquest/tree/day1-5/day-05) |
 
-| Mastering File Handling with Python - Days 6-10 | Link                                           |
+| [Mastering File Handling with Python - Days 6-10](https://github.com/yam-1111/dcc_pyquest/tree/day6-10) | Link                                           |
 | ---------------------------------------------- | ---------------------------------------------- |
 | Day 6                                          | [Link](https://github.com/yam-1111/dcc_pyquest/tree/day6-10/day-06) |
 | Day 7                                          | [Link](https://github.com/yam-1111/dcc_pyquest/tree/day6-10/day-07) |
@@ -21,7 +21,7 @@
 | Day 9                                          | [Link](https://github.com/yam-1111/dcc_pyquest/tree/day6-10/day-09) |
 | Day 10                                         | [Link](https://github.com/yam-1111/dcc_pyquest/tree/day6-10/day-10) |
 
-| Crafting RESTful APIs with Flask - Days 11-15   | Link                                           |
+| [Crafting RESTful APIs with Flask - Days 11-15](https://github.com/yam-1111/dcc_pyquest/tree/day11-15)   | Link                                           |
 | ---------------------------------------------- | ---------------------------------------------- |
 | Day 11                                         | [Link](https://github.com/yam-1111/dcc_pyquest/tree/day11-15/day-11) |
 | Day 12                                         | [Link](https://github.com/yam-1111/dcc_pyquest/tree/day11-15/day-12) |
